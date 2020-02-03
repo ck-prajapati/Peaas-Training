@@ -1,0 +1,82 @@
+.header{
+    background-image: url("./images/banner.jpg");
+	position: relative;
+	width: 100%;
+	position: relative;
+    background-size: auto;
+    /* height: 309px; */
+}
+.header-container {
+    width: 70%;
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+a:link {
+    color: white;
+    font-family: 'Open Sans';
+	font-size: 14px;
+}
+.inner-container{
+    color: white;
+    text-align: center;
+    margin: 30px;
+    padding: 15px;
+}
+.download-container{
+    color: black;
+    text-align: center;
+    margin: 30px;
+    padding: 15px;
+}
+body {
+    /* font-family: sans-serif; */
+    font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	color: #707070;
+}
+.footer-about{
+    text-align: center;
+    color: white;
+}
+.about{
+    text-align: center;
+    color: black;
+    padding: 15px;
+}
+.about-row{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.font-l{
+    text-align: justify;
+    color: #707070;
+}
+.light-blue{
+    background: #232f4a;
+    padding: 40px;
+}
+.footer-container {
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background: #1d263a;
+    color: gray;
+    text-align: center;
+}
+.btn-danger{
+    border-radius: 0;
+    padding: 10px 35px;
+    font-size: 15px;
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    margin: 25px;
+}
+.image-box{
+    border: white;
+    border-width: 1px;
+    border-style: groove;
+    width: 345px;
+    height: 345px;
+}
